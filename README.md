@@ -1,4 +1,4 @@
-# 🛡️ DataGuard — Automated Data Quality & Monitoring Tool  
+# 🛡️ DataGuard - Automated Data Quality & Monitoring Tool  
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)  
 ![Data-Quality](https://img.shields.io/badge/Data%20Quality-Checker-FF5252?logo=data:image)  
 ![Monitoring](https://img.shields.io/badge/Monitoring-Tool-4CAF50?logo=monitor)  
