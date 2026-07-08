@@ -8,7 +8,7 @@
 
 **DataGuard** is a **Python 3** tool built to automatically evaluate datasets for key data-quality metrics (missing values, duplicates, outliers) and generate JSON reports — ideal for integrating into your data engineering pipelines.
 
----------------------------
+----------------------------
 
 ## 🛠 Tech & Languages
 
