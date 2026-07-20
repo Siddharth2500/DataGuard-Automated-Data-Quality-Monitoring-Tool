@@ -31,7 +31,7 @@ Flow:
 4. Produce `quality_report.json` with verdict PASS/FAIL  
 5. Print summary for quick human review  
 
----------
+----------
 
 ## ▶️ Run DataGuard
 
