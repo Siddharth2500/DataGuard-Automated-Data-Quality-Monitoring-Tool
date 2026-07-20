@@ -20,7 +20,7 @@
 | Execution    | **Stand-alone script / notebook**| Easy integration in Google Colab or CI/CD      |
 | Logging      | **Console print + report file**  | Lightweight audit                               |
 
--------------
+---------------
 
 ## 🌐 Architecture
 
